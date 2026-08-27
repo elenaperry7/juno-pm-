@@ -6,10 +6,10 @@ https://rocketship-clarity.lovable.app
 
 ## What it demonstrates
 
-_The one flow this prototype proves._
+A three-column dashboard for 'Juno PM'. Juno helps PMs synthesise messy raw inputs (interview transcripts, support tickets, executive emails) into evidence-backed PRD drafts.
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** It quickly spit out a dashboard that looked just like what I had requested
+- **What broke / felt like a toy:** The Process Transcript button was originally in the wrong location but I was able to move it in my follow up prompt.
+- **What I'd change next pass:** add colors / look and feel into the original prompt
